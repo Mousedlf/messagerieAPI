@@ -1,7 +1,7 @@
 <html lang="en">
 <p>c'est un copier-coller du code de templates/home/index.html.twig. </p>
   <p>images pas là, bootstrap pas pris en compte. Donc pas terrible </p>
-  <p>dans tout les cas c'est loin d'être fini</p>
+  <p>dans tous les cas c'est loin d'être fini</p>
 
 <body>
 
